@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Using Zod, a schema declaration and validation library for typescript. It allows us to design schemas for any data, including primitive data types, objects, arrays, and more.
 
 ## Getting Started
 
